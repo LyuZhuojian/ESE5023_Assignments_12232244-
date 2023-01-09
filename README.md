@@ -23,3 +23,12 @@ Good to consider latitude weight! (+1p)
 Wrong plot region. (-1p)
 2.1 & 2.2
 Wrong El Nino region. (-1p)
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (30/30).
+
+### Assginment 05 comments - Chenyy
+Good job! I shall give you full point (42/40).
+Your report is neat and organized (+5). Your CO2 trend calculation without buffer effect seems to be lower than Fig. 2 in the article (-3), please check your code again. Besides, your x-axis (year) datatype is confused, I think it should not be in `float` type, in `int` would be better. Keep going!
+
+
